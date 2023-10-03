@@ -1,0 +1,31 @@
+body {
+    background-image: url("/img/ejercicio4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#container {
+    margin-left: 12%;
+    height: 100%;
+    width: 25%;
+    opacity: 90%;
+    transform:skew(12deg);
+}
+
+#content {
+    transform: skew(-12deg);
+}
+
+#titulo {
+    font-size: 275%;
+    font-weight: 900;
+}
+
+#loren {
+    font-size: 105%;
+    font-weight: 400;
+}
+
+#iconos {
+    margin-left: 30px;
+}
