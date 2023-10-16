@@ -28,7 +28,7 @@ html {
 
 .c-img {
     height: 100%;
-    object-fit:cover;
+    object-fit: cover;
     filter: brightness(0.6);
 }
 
@@ -44,5 +44,18 @@ html {
 }
 
 .c-minimg {
-    width: 400px;
+    width: 575px;
+    height: 300px;
+    object-fit: cover;
+}
+
+.c-secc {
+    margin-left: 6%;
+    margin-right: 6%;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.c-space {
+    margin-top: 275px;
 }
